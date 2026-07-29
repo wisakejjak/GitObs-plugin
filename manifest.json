@@ -1,0 +1,11 @@
+{
+	"id": "gitea-sync-plugin",
+	"name": "Gitea SyncPlugin",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Auto sync with Git (Gitea)",
+	"author": "Wisakejjak",
+	"authorUrl": "https://github.com/wisakejjak",
+	"fundingUrl": "https://github.com/wisakejjak",
+	"isDesktopOnly": false
+}
