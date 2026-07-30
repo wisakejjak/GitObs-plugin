@@ -48,12 +48,6 @@ git push -u origin main
     * SSH Port: Set your custom SSH port (default is 22)
     * Sync interval: Auto-sync frequency in minutes (set to 0 to disable)
 
-## Manual Installation
-1. Download ``main.js`` and ``manifest.json`` from release
-2. Create a folder named ``gitea-sync-plugin`` in your vault's plugin directory: ``<VaultFolder>/.obsidian/plugins/gitea-sync-plugin/``
-3. Copy ``main.js`` and ``manifest.json`` into that folder
-4. Reload Obsidian and enable the plugin in "Settings" -> "Community Plugins"
-
 ## Builing from Source
 
 ```bash
