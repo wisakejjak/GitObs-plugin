@@ -52,7 +52,7 @@ git push -u origin main
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/GitObs-plugin.git](https://github.com/your-username/GitObs-plugin.git)
+git clone https://github.com/wisakejjak/GitObs-plugin.git
 cd GitObs-plugin
 
 # Install dependencies
